@@ -1,0 +1,21 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.navbar {
+    background-color: lightblue;
+}
+
+.bg-aqua {
+    background-color: aqua;
+    text-align: center;
+}
+
+.footer {
+    background-color: aqua;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+}
